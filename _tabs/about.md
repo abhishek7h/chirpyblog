@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Hey, I'm Abhishek Hari
+
+I'm a passionate writer and poet. I like to immerse myself in words, occasionally in code, too. Also interested in AI, football and music. I’m also a columnist for [MTK News](https://mtknews.studio/author/abhishek)
