@@ -1,6 +1,8 @@
 ---
 title: Golden Rose
-updated: 2022-09-20 19:05
+date: 2022-09-20 19:05
+categories: [Romantic, Perseverance, Free Verse, Poem]
+tags: [poem]
 ---
 
 he embarked to

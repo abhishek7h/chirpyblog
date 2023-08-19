@@ -1,6 +1,8 @@
 ---
 title: Kindness and a Ghost
-updated: 2023-07-17 08:13
+date: 2023-07-17 08:13
+categories: [Humour, ABAB Rhyme, Rhyme, Poem]
+tags: [poem]
 ---
 
 Kindness is a virtue,
