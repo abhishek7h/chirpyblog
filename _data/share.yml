@@ -4,15 +4,15 @@
 platforms:
   - type: Twitter
     icon: "fab fa-twitter"
-    link: "https://twitter.com/intent/tweet?text=title&url=abhishekhari.com"
+    link: "https://twitter.com/intent/tweet?text=TITLE&url=abhishekhari.com"
 
   - type: Facebook
     icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=title&url=abhishekhari.com"
+    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&url=abhishekhari.com"
 
   - type: Telegram
     icon: "fab fa-telegram"
-    link: "https://t.me/share/url?url=abhishekhari.com&text=title"
+    link: "https://t.me/share/url?url=abhishekhari.com&text=TITLE"
 
   # Uncomment below if you need to.
   #
