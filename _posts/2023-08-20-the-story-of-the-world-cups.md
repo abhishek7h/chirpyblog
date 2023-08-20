@@ -1,8 +1,8 @@
 ---
 title: The Story of the World Cups
-date: 2023-08-20 11:11
+date: 2023-08-20 04:11
 categories: [Football, Story, Essay, Narration]
-tag: [football]
+tags: [football]
 ---
 
 One of the things that keeps me from going insane is the beautiful game, football. I love football. It's something so wonderful that I can't express my love for it. It's a game of teamwork and trust, focus and analysis, mind games and body language. I've been an avid football fan since 2016 or 2017. I wasn't really into sports before that for some reason. But I think it was around that time when I really got into football. I remember watching football videos on YouTube and I was fascinated. At one point, I even wanted to be a pro player, but that notion needs to be kept aside for consideration. Anyway, after that in 2018 came my first FIFA WC. I didn't watch the 2014 WC because obviously, I was kind of young. In the WC of '18, I watched a lot of matches. Most of them were at night, but I watched for as long as I could. One thing I remember well is during the inaugural game, Russia vs Saudi Arabia, I watched for some time and went to bed, then my dad woke me up and told me that Russia had scored 5 goals and I jumped from the bed and sat in front of the TV, watching in awe.
