@@ -1,7 +1,7 @@
 ---
 title: Little Big Traditions (Happy Onam!)
 date: 2023-08-29 17:45
-categories: [Life, Personal, Musings, Movies, Celebration]
+categories: [Life, Personal, Musings, Festival]
 tags: [life]
 ---
 
