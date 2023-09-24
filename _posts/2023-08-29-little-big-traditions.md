@@ -1,9 +1,11 @@
 ---
-title: Little Big Traditions (Happy Onam!)
+title: Little Big Traditions
 date: 2023-08-29 17:45
 categories: [Life, Personal, Musings, Festival]
 tags: [life]
 ---
+
+Happy Onam!
 
 I wonder if everyone has these personal traditions, something that they do every year. I don't mean it religiously, something for personal satisfaction.
 
