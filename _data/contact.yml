@@ -3,8 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
+- type: bluesky
+  icon: "fa-solid fa-cloud"
+  url: "https://bsky.app/profile/abhishekhari.com"
+
 - type: twitter
-  icon: "fab fa-twitter"
+  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
