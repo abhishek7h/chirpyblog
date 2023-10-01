@@ -112,7 +112,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 20
+paginate: 30
 
 # ------------ The following options are not recommended to be modified ------------------
 
