@@ -1,6 +1,6 @@
 ---
 title: Social Media And Mental Health
-date: 2023-10-01 11:11
+date: 2023-09-30 11:11
 categories: [Self-Awareness, Self-Improvement, Life, Social Media, Longform]
 tags: [mental-health]
 ---
