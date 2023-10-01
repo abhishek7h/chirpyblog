@@ -2,7 +2,7 @@
 title: Social Media And Mental Health
 date: 2023-10-01 14:30
 categories: [Self-Awareness, Self-Improvement, Life, Social Media, Longform]
-tags: [mental-health]
+tags: [mentalhealth]
 ---
 
 We have developed a lot, we have developed so much that we are now living in the digital age. Since the early 2000s, digital products were going mainstream. But the one thing that revolutionized the digital world as we know it? The iPhone. Debuted to the world in 2007, since then, it has taken over the world. Generally speaking and not limiting my words to the iPhone, smartphones have played a huge role in making changes in the world.
