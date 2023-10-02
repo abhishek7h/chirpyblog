@@ -3,9 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
 - type: medium
   icon: "fa-brands fa-medium"
   url: "https://ah3.medium.com"
@@ -14,29 +11,14 @@
   icon: "fa-solid fa-square"
   url: "https://bsky.app/profile/abhishekhari.com"
 
-- type: spotify
-  icon: "fa-brands fa-spotify"
-  url: "https://open.spotify.com/user/31ud5p6u4yvlbtwiv4ho3vkqunam?si=7bfaa9c845d1442f"
-
-- type: instagram
-  icon: "fa-brands fa-instagram"
-  url: "https://www.instagram.com/inlovewiththeskies"
-
 - type: youtube
   icon: "fa-brands fa-youtube"
   url: "https://www.youtube.com/@ah3yo"
-
-- type: cv
-  icon: "fa-solid fa-file"
-  url: "https://ah3.read.cv"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
