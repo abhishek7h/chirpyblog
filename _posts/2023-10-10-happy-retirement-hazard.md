@@ -13,9 +13,13 @@ He dominated the PL at Chelsea, lifting the PL trophy two times, one FA Cup, One
 
 Until it all fell down. In 2019, he moved to Real Madrid for an estimated €150M, just a year after Ronaldo's deprature. In paper, it was perfect. Real needed a replacement for Ronaldo, and there he was, Eden Hazard. He was immediately given number 7. But luck was not with him, he faced too many injuries and was out for long. He only made 76 appearances during the four seasons he was at Real, and scored only 7 goals and assisted 12.
 
-He could have moved on, but he chose not to, and I respect his decision.
+He could have moved on, but he chose not to, and I respect his decision
+
+‎
 
 > "You must listen to yourself and say stop at the right time." ~ Hazard
+
+‎
 
 He has etched his legacy in history and it will never be forgotten. His Prime will be cherished as one of the best.
 
