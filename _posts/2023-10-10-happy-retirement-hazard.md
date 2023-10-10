@@ -7,6 +7,8 @@ tags: [football]
 
 Just an hour ago, Eden Hazard announced his retirement from professional football, at the age of 32. It is just heartbreaking to let the fact sink in that one of the greatest players to play the beautiful game retired at 32.
 
+I was just watching his Prime clips just hours ago, never in my wildest dreams did I imagine his retirement would be today, I didn't even think it would be for a couple years!
+
 Prime Hazard was a MONSTER. He lived up to his name whenever the ball was in his possession. The madlad dribbled for fun, he scored the most insane of goals and made magical passes. There is no doubt that he was one of the best wingers to play in the Premier League.
 
 He dominated the PL at Chelsea, lifting the PL trophy two times, one FA Cup, One League Cup and two Europa Leagues, and appearing 352 times, scoring 110 goals and assisting 92. He had the reign of terror.
@@ -17,7 +19,7 @@ He could have moved on, but he chose not to, and I respect his decision
 
 ‎
 
-> "You must listen to yourself and say stop at the right time." ~ Hazard
+> "You must listen to yourself and say stop at the right time." - Eden Hazard
 
 ‎
 
