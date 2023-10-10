@@ -11,7 +11,7 @@ I was just watching his Prime clips just hours ago, never in my wildest dreams d
 
 Prime Hazard was a MONSTER. He lived up to his name whenever the ball was in his possession. The madlad dribbled for fun, he scored the most insane of goals and made magical passes. There is no doubt that he was one of the best wingers to play in the Premier League.
 
-He dominated the PL at Chelsea, lifting the PL trophy two times, one FA Cup, One League Cup and two Europa Leagues, and appearing 352 times, scoring 110 goals and assisting 92. He had the reign of terror.
+He dominated the PL at Chelsea, lifting the PL trophy twice, the FA Cup once, the League Cup once and the Europa League twice, appearing 352 times, scoring 110 goals and assisting 92. He had the reign of terror.
 
 Until it all fell down. In 2019, he moved to Real Madrid for an estimated €150M, just a year after Ronaldo's deprature. On paper, it was perfect. Real needed a replacement for Ronaldo, and there he was, Eden Hazard. He was immediately given number 7. But luck was not with him, he faced too many injuries and was out for long. He only made 76 appearances during the four seasons he was at Real, and scored only 7 goals and assisted 12.
 
