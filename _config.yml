@@ -20,7 +20,7 @@ timezone: Asia/Caclutta
 
 title: Abhishek Hari # the main title
 
-tagline: # it will display as the sub-title
+tagline: Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Abhishek Hari's personal blog. Articles about self-improvement and tech.
