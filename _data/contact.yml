@@ -3,6 +3,9 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
+- type: github
+  icon: "fa-brands fa-github"
+
 - type: medium
   icon: "fa-brands fa-medium"
   url: "https://ah3.medium.com"
@@ -10,10 +13,6 @@
 - type: bluesky
   icon: "fa-solid fa-square"
   url: "https://bsky.app/profile/abhishekhari.com"
-
-- type: youtube
-  icon: "fa-brands fa-youtube"
-  url: "https://www.youtube.com/@ah3yo"
 
 - type: email
   icon: "fas fa-envelope"
