@@ -12,7 +12,7 @@ platforms:
 
   - type: WhatsApp
     icon: "fa-brands fa-square-whatsapp"
-    link: "whatsapp://send?text=TITLE%20URL"
+    link: "whatsapp://send?text=TITLE%20abhishekhari.comURL"
 
   # - type: Telegram
   #   icon: "fab fa-telegram"
