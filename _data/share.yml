@@ -2,17 +2,17 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: X
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=abhishekhari.comURL"
+  - type: WhatsApp
+    icon: "fa-brands fa-square-whatsapp"
+    link: "whatsapp://send?text=TITLE%20abhishekhari.comURL"
 
   - type: Facebook
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=abhishekhari.comURL"
 
-  - type: WhatsApp
-    icon: "fa-brands fa-square-whatsapp"
-    link: "whatsapp://send?text=TITLE%20abhishekhari.comURL"
+  - type: X
+    icon: "fa-brands fa-square-x-twitter"
+    link: "https://twitter.com/intent/tweet?text=TITLE&url=abhishekhari.comURL"
 
   # - type: Telegram
   #   icon: "fab fa-telegram"
