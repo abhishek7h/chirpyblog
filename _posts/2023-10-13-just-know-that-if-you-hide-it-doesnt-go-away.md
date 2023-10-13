@@ -15,4 +15,4 @@ If you have a responsibility, you must tend to it because you are responsible fo
 
 Everyone has problems and responsibilities in their life, even I do. I try to run away, but then I understand that there is no use in running. I then think hard, "What can I do to solve this?", and once I'm done analyzing, I execute. That's it, that's one done, now just 99 more to go.
 
-[^footnote]: It's a beautiful song, I recommend that you give it a lesson. I'm so hooked that I made it my phone's ringtone!
+[^footnote]: It's a beautiful song, I recommend that you give it a listen. I'm so hooked that I made it my phone's ringtone!
