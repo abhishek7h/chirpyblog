@@ -10,6 +10,10 @@ platforms:
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=abhishekhari.comURL"
 
+  - type: WhatsApp
+    icon: "fa-brands fa-square-whatsapp"
+    link: "whatsapp://send?text=TITLE%20URL"
+
   # - type: Telegram
   #   icon: "fab fa-telegram"
   #   link: "https://t.me/share/url?url=abhishekhari.com&text=TITLE"
