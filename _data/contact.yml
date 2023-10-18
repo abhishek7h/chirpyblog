@@ -1,18 +1,14 @@
 #  The contact options.
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: bluesky
+  icon: "fa-solid fa-cloud"
+  url: "https://bsky.app/profile/abhishekhari.com"
 
 - type: github
   icon: "fa-brands fa-github"
 
-- type: medium
-  icon: "fa-brands fa-medium"
-  url: "https://ah3.medium.com"
-
-- type: bluesky
-  icon: "fa-solid fa-square"
-  url: "https://bsky.app/profile/abhishekhari.com"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
