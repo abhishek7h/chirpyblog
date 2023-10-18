@@ -1,7 +1,7 @@
 ---
 title: Celebrating 77 Years of Indian Independence
 date: 2023-08-15 11:11
-categories: [Festival, Celebration, History]
+categories: [blog]
 tags: [history]
 ---
 

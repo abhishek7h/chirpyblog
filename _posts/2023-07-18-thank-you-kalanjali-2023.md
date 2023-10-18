@@ -1,7 +1,7 @@
 ---
 title: Thank you for a Wonderful Kalanjali 2023
 date: 2023-07-18 08:12
-categories: [Life, Events, Regards]
+categories: [blog, slice-of-life]
 tags: [regards]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Books are Magic
 date: 2023-07-25 17:48
-categories: [Books, Reading, Essay]
+categories: [blog, essay]
 tags: [books]
 ---
 

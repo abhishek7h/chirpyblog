@@ -1,7 +1,7 @@
 ---
 title: Everyone Is Skilled
 date: 2023-08-02 15:03
-categories: [Life, Life Advice, Self-Confidence]
+categories: [blog]
 tags: [life]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: When Things Don't Go Right
 date: 2023-08-05 22:00
-categories: [Life, Problems, Advice]
+categories: [blog, slice-of-life]
 tags: [life]
 ---
 

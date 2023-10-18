@@ -1,7 +1,7 @@
 ---
 title: High Hopes, Wrecked Anticipation
 date: 2023-09-15 11:11
-categories: [Life, Motivation, Perseverance, Life Advice]
+categories: [blog, musings]
 tags: [life]
 ---
 

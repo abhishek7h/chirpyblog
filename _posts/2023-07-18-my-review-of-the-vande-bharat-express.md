@@ -1,7 +1,7 @@
 ---
 title: My Review of the Vande Bharat Express
 date: 2023-07-18 20:07
-categories: [Life, Travel, Review]
+categories: [blog, travel]
 tags: [travel]
 ---
 

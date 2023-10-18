@@ -1,7 +1,7 @@
 ---
 title: Little Big Traditions
 date: 2023-08-29 17:45
-categories: [Life, Personal, Musings, Festival]
+categories: [blog, musings, slice-of-life]
 tags: [life]
 ---
 

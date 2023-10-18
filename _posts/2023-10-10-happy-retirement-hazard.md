@@ -1,7 +1,7 @@
 ---
 title: Happy Retirement, Eden Hazard
 date: 2023-10-10 09:45
-categories: [Football, Retirement, Idols]
+categories: [blog]
 tags: [football]
 ---
 

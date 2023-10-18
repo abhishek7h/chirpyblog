@@ -1,7 +1,7 @@
 ---
 title: Entering The Flow State
 date: 2023-08-08 11:11
-categories: [Psychology, Productivity]
+categories: [blog, psychology]
 tags: [productivity]
 ---
 

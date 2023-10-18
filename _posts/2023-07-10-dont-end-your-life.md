@@ -1,7 +1,7 @@
 ---
 title: Don't End Your Life
 date: 2023-07-10 19:35
-categories: [Life, Motivation, Self-Awareness]
+categories: [blog]
 tags: [motivation]
 ---
 

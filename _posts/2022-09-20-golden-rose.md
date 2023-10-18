@@ -1,7 +1,7 @@
 ---
 title: Golden Rose
 date: 2022-09-20 19:05
-categories: [Romantic, Perseverance, Free Verse, Poem]
+categories: [poem, free-verse]
 tags: [poem]
 ---
 

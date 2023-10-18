@@ -1,7 +1,7 @@
 ---
 title: Just Know That If You Hide, It Doesn't Go Away
 date: 2023-10-13 09:41
-categories: [Life, Problems, Musings, Perseverance, Self-Improvement]
+categories: [blog, musings]
 tags: [life]
 ---
 

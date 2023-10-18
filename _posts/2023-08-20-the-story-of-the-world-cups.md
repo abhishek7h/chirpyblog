@@ -1,7 +1,7 @@
 ---
 title: The Story of the World Cups
 date: 2023-08-20 04:11
-categories: [Football, Story, Essay, Narration]
+categories: [essay, story-nf]
 tags: [football]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Kindness and a Ghost
 date: 2023-07-17 08:13
-categories: [Humour, ABAB Rhyme, Rhyme, Poem]
+categories: [poem, humour]
 tags: [poem]
 ---
 

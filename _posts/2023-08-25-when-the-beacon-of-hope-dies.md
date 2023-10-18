@@ -1,7 +1,7 @@
 ---
 title: When The Beacon Of Hope Dies
 date: 2023-08-30 11:11
-categories: [Life, Motivation, Perseverance, Life Advice]
+categories: [blog]
 tags: [life]
 ---
 

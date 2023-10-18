@@ -1,7 +1,7 @@
 ---
 title: The Glass Half Full Person
 date: 2023-09-27 11:11
-categories: [Life, Optimism, Advice, Self-Improvement, Musings]
+categories: [blog, musings]
 tags: [life]
 ---
 

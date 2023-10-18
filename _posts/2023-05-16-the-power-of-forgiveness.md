@@ -1,7 +1,7 @@
 ---
 title: The Power of Forgiveness
 date: 2023-05-16 11:11
-categories: [Life, Mental Health, Self-Awareness]
+categories: [blog, mental-health]
 tags: [life]
 ---
 
