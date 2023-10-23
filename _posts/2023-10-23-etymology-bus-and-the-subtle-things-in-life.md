@@ -1,6 +1,6 @@
 ---
 title: Etymology, Bus And The Subtle Things In Life
-date: 2023-10-13 09:41
+date: 2023-10-23 09:41
 categories: [blog, musings, slice-of-life]
 tags: [life]
 ---
