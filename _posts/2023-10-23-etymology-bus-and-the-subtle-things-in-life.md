@@ -19,3 +19,5 @@ So apparently, the word "bus" is short for "omnibus", which means "for everyone"
 
 Small things like this, we often overlook. At one point, I could've simply not cared.
 "Why should I've bothered knowing about the meaning of a word?" I could've asked myself. The answer is my eternal curiosity. A satisfaction that I've learnt something that I've always aspired to learn. We should give importance to the subtle things in life that we fail to notice, like a little leaf on top of the car. If we do so, we can make life simpler and happier.
+
+> [Also find this article on Medium.com](https://ah3.medium.com/etymology-bus-and-the-subtle-things-in-life-f4f76e82d442)
