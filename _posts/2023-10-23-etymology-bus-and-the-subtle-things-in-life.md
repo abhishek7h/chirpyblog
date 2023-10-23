@@ -5,7 +5,7 @@ categories: [blog, musings, slice-of-life]
 tags: [life]
 ---
 
-It was some time ago that I learnt about etymology. Etymology is the study of the origin of words, and the way in which their meaning have changed. I found it pretty interesting. I looked up some origins of words.
+It was some time ago that I learnt about etymology. Etymology is the study of the origin of words, and the way in which their meanings have changed. I found it pretty interesting. I looked up some origins of words.
 
 I knew I had to look at the etymology of the one word that had me baffled for ages. The one word that has taken minutes of my life pondering on its existence, and after saying it a lot of times, losing meaning.
 
