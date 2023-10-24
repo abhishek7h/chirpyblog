@@ -18,3 +18,7 @@ I am going to categorize fear of embarrassment into two, while with close friend
 The fear of failure. A thing familiar to many, but celebrated by none. I like to trust the notion that if we haven’t personally tried something, we won’t know how hard it is, and failure is just a process of mastering something. How do you think musicians pull off perfect chords and notes every single time? Hours and hours of blood, sweat and tears led them to this. They were once very bad at what they now do to earn a living. They have failed a chord or note countless times. So, they corrected themselves. They worked hard. But the world only sees their final performance and thinks that they have natural talent and if they tried to do it, they won’t be able to.
 
 If we live fearlessly, we could definitely live happier. At least I will keep on believing that.
+
+‎
+
+> [Also find this article on Medium.com](https://ah3.medium.com/living-life-fearless-d9b5f45bbc71)
