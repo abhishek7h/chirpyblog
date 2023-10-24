@@ -3,6 +3,7 @@ title: 7 Valuable Life Lessons I've Learnt Over The Years
 date: 2023-04-06 08:13
 categories: [blog, musings, slice-of-life]
 tags: [life]
+pin: true
 ---
 
 So far in my life, I’ve had many experiences and encounters. I’ve had the realisation that I’ve learnt some lessons, whether it be through rough experiences or guidance from mentors. We all learn valuable pieces of information throughout our lives, in some way or the other. It’s our job to put one and one together and make something useful out of that information. Here’s what I’ve learnt:
