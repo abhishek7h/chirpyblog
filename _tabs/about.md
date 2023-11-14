@@ -42,5 +42,7 @@ And in the district-level competition:
 - First prize for Coding (Solo, Computer Science, did three projects, Minecraft clone, Face Recognition and a Weather App, available on my GitHub.)
 - Second prize for Working Model (Team, Geography, Grew a paddy field with a friend.)
 
+#### Footnotes
+
 [^footnote]: I didn't actually participate for English Recitation, Team Trivandrum actually reached out to me and asked my Dad if it was okay to give my name for Recitation. It was because only one other person actually signed up for Recitation and they had to send two.
 [^fn-nth-2]: Only two people participated for the event, so there can be no prizes, but I got A grade, so I was able to participate in state-level.
