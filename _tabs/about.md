@@ -18,7 +18,9 @@ I also love writing stories, and for that I would like to thank Jeff Kinney, the
 
 ## Notable Achievements
 
-KBS Kalanjali 2023 State-level **Kalaprathibha** (Junior Category, Repped Trivandrum)
+### KBS Kalanjali 2023
+
+State-level **Kalaprathibha** (Junior Category, Repped Trivandrum)
 
 In the same competition (State-level):
 
@@ -27,11 +29,18 @@ In the same competition (State-level):
 - Second Prize for Story Writing English
 - Third Prize for English Recitation (I recited O Captain! My Captain!)[^footnote]
 
-And in the district level competition:
+And in the district-level competition:
 
 - First prize for Story Writing English
-- First prize for Versification English
+- Participation prize with A grade for Versification English[^fn-nth-2]
 - First prize for English Elocution
 - Second prize for Essay Writing English
 
+### School Exhibition
+
+- First prize for PowerPoint Presentation (Solo, History, Culture and Diversity of India)
+- First prize for Coding (Solo, Computer Science, did three projects, Minecraft clone, Face Recognition and a Weather App, available on my GitHub.)
+- Second prize for Working Model (Team, Geography, Grew a paddy field with a friend.)
+
 [^footnote]: I didn't actually participate for English Recitation, Team Trivandrum actually reached out to me and asked my Dad if it was okay to give my name for Recitation. It was because only one other person actually signed up for Recitation and they had to send two.
+[^fn-nth-2]: Only two people participated for the event, so there can be no prizes, but I got A grade, so I was able to participate in state-level.
