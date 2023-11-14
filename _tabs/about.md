@@ -39,8 +39,8 @@ And in the district-level competition:
 ### School Exhibition
 
 - First prize for PowerPoint Presentation (Solo, History, Culture and Diversity of India)
-- First prize for Coding (Solo, Computer Science, did three projects, Minecraft clone, Face Recognition and a Weather App, available on my GitHub.)
-- Second prize for Working Model (Team, Geography, Grew a paddy field with a friend.)
+- First prize for Coding (Solo, Computer Science, did three projects, Minecraft clone, Face Recognition and a Weather App, available on my GitHub)
+- Second prize for Working Model (Team, Geography, Grew a paddy field with a friend)
 
 #### Footnotes
 
