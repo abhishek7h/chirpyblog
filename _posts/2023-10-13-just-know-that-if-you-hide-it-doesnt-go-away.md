@@ -2,7 +2,7 @@
 title: Just Know That If You Hide, It Doesn't Go Away
 date: 2023-10-13 09:41
 categories: [blog, musings]
-tags: [life]
+tags: [self-improvement]
 ---
 
 That is a verse from MGMT's song "Little Dark Age"[^footnote], and it stuck to my head. "It" refers to the problems and responsibilities one has in life, and by hiding from them, they don't go away, and I couldn't agree more. I kept on thinking about this verse and how true it was.

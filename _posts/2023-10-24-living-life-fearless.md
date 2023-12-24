@@ -2,7 +2,7 @@
 title: Living Life, Fearless
 date: 2023-10-24 11:11
 categories: [blog, musings]
-tags: [life]
+tags: [self-improvement]
 ---
 
 I might have found a way to live life happily. The secret, that might not be, is to just be fearless. Our life is controlled and restricted by the element of fear. If, if, if, we eliminate “fear”, we could enjoy life way more.
