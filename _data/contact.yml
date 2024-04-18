@@ -1,5 +1,11 @@
 #  The contact options.
 
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+- type: github
+  icon: "fa-brands fa-github"
+
 - type: Medium
   icon: "fa-brands fa-medium"
   url: "https://ah3.medium.com"
@@ -7,12 +13,6 @@
 - type: bluesky
   icon: "fa-solid fa-cloud"
   url: "https://bsky.app/profile/abhishekhari.com"
-
-- type: github
-  icon: "fa-brands fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
