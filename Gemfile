@@ -6,6 +6,7 @@ gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.5"
 
 gem "jekyll"
 gem "jekyll-paginate"
+gem "json"
 
 group :test do
   gem "html-proofer", "~> 4.4"
