@@ -42,8 +42,8 @@ social:
   email: hey@abhishekhari.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/abhishek7h # change to your github homepage
-    - https://twitter.com/abhishek7h # change to your twitter homepage
+    - https://twitter.com/abhishek7h # change to your github homepage
+    - https://github.com/abhishek7h # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -113,7 +113,7 @@ assets:
 pwa:
   enabled: false # the option for PWA feature
 
-paginate: 30
+paginate: 20
 
 # ------------ The following options are not recommended to be modified ------------------
 
