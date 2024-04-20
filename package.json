@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhishek7h/archive.git"
+    "url": "git+https://github.com/abhishek7h/blog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhishek7h/archive/issues"
+    "url": "https://github.com/abhishek7h/blog/issues"
   },
-  "homepage": "https://github.com/abhishek7h/archive#readme",
+  "homepage": "https://github.com/abhishek7h/blog#readme",
   "dependencies": {
-    "html-proofer": "^0.0.1"
+    "html-proofer": "4.4.3"
   }
 }
