@@ -6,7 +6,7 @@ order: 4
 
 # Hey, I'm Abhishek Hari
 
-I'm a passionate writer and poet. I like to immerse myself in words, occasionally in code, too. Also interested in AI, football and music. I’m also a columnist for [MTK News](https://mtknews.studio/author/abhishek). You can find some of my poems [here](https://abhishekhari.com/poems).
+I'm a passionate writer and poet. I like to immerse myself in words, occasionally in code, too. Also interested in AI, football and music. You can find some of my poems [here](https://abhishekhari.com/poems).
 
 ## My Love For Literature
 
