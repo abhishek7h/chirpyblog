@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abhishek7h/archive/issues"
   },
-  "homepage": "https://github.com/abhishek7h/archive#readme"
+  "homepage": "https://github.com/abhishek7h/archive#readme",
+  "dependencies": {
+    "html-proofer": "^0.0.1"
+  }
 }
