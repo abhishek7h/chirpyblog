@@ -1,6 +1,6 @@
 ---
 title: A Photographer's Perspective of Life
-date: 2024-05-14 11:11
+date: 2024-05-13 11:11
 categories: [blog, musings, slice-of-life]
 tags: [photography]
 ---
